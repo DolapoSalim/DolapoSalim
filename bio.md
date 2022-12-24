@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DolapoSalim
-- 👀 I’m interested in Python and R code for Data Analysis
-- 💞️an IBM certified data scientist ( IBM & Coursera, Data Analysis with Python)
-- 🌱 I’m currently learning on Coursera and DataQuest
-- 💞️ I’m looking to collaborate on any Data Analysis Project, ranging from Wrangling, Modelling, analysis and Visualisation
+- 👋 Hello, World! My name is Olatoye Dolapo Salim
+- 👀 I’m a budding Front End Dveloper
+- 💞️ Currently perfecting my skills with React.js, Bootstrap, jQuery, SASS.
+- 🌱 I’m currently learning on Coursera the Front End Development skills with Meta
+- 💞️ I’m looking to collaborate on any Project that utilises the html, JavaScript, CSS, python programming languages.
 - 📫 Contact me via email: dolaposalim@gmail.com 
 
 <!---
