@@ -1,8 +1,5 @@
 - 👋 Hello, World! My name is Olatoye Dolapo Salim.
-- 👀 I’m a budding Front End developer, Marine Ecologist, and Data Analyst.
-- 💞️ Currently perfecting my skills with React.js, Bootstrap, jQuery, and SASS.
-- 🌱 I’m currently learning on Coursera the Front End Development skills with Meta.
-- 💞️ I want to collaborate on any project utilizing HTML, JavaScript, CSS, and Python programming languages.
+- 👀 I’m a Marine Biologist who can code, and an artist who can speak to computer to create beautiful image and user friendly designs.
 - 📫 Contact me via email: dolaposalim@gmail.com 
 
 <!---
