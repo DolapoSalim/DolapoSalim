@@ -3,7 +3,7 @@
 Oh hey there, curious coder! You’ve just stumbled upon my little corner of the internet—lucky you. Here, you’ll find a mix of brilliant ideas, half-baked experiments, and the occasional *"what was I thinking?"* commits.  
 
 ### 💡 Who Am I?  
-A marine researcher who juggles AI, ecosystem stability studies, species recognition analysis, and Call of Duty —all while keeping my sanity intact. I play around with:  
+A marine researcher who juggles AI, ecosystem stability studies, species recognition analysis, and Call of Duty 🎮 —all while keeping my sanity intact. I play around with:  
 - 🧠 **AI & Machine Learning** (Yes, I talk to neural networks more than humans.)  
 - 🌿 **Ecosystem Monitoring** (Because nature deserves cool tech too.)  
 - 🎥 **Multimodal Modeling** (Making sense of videos, images, and more.)  
