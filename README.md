@@ -15,7 +15,7 @@ Here, you’ll find a mix of brilliant ideas, half-baked experiments, and the oc
                  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> </a>
                  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> </a>
                  <br>
-<hr width="65%">
+<hr width="100%">
 <h4>My GitHub Stats</h4>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DolapoSalim&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="DolapoSalim"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DolapoSalim&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="DolapoSalim"></p>
 <p><br></p>
