@@ -120,16 +120,16 @@ Here, you’ll find a mix of brilliant ideas, half-baked experiments, and the oc
 
 <hr width="100%">
 
-<h3 align="center"> Featured Computer Vision Project</h3>
+<h3 align="center">🐟 Featured Computer Vision Project</h3>
 
 <h4 align="center">Automated Fish Tracking</h4>
 
 <p align="center">
-<img src="assets/fish_tracking.gif" width="800"/>
+  <img src="assets/sample_video-ezgif.com-crop.gif" alt="AI Fish Tracking Demo" width="800"/>
 </p>
 
 <p align="center">
-Using AI to detect and track fish movement for ecological and behavioural studies.
+AI-powered fish detection and multi-object tracking for ecological and behavioural analysis.
 </p>
 
 <hr width="100%">
