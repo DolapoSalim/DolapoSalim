@@ -106,7 +106,7 @@ Here, you’ll find a mix of brilliant ideas, half-baked experiments, and the oc
 <h3 align="center">Research & Coding Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DolapoSalim&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=DolapoSalim&show_icons=true&theme=github_dark&hide_border=true" height="170"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolapoSalim&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
