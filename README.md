@@ -2,7 +2,7 @@
 
 You’ve just stumbled upon my little corner of the internet, lucky you.
 Here, you’ll find a mix of brilliant ideas, half-baked experiments, and the occasional *"what was I thinking?"* commits.
-#### 💡Read more about me **[here](https://github.com/DolapoSalim/DolapoSalim/blob/main/more-details.md)** 
+#### 💡Read more about me **[here](https://drdolapointhemaking.netlify.app/)**
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a>
                  <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"> </a>
@@ -117,3 +117,19 @@ Here, you’ll find a mix of brilliant ideas, half-baked experiments, and the oc
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DolapoSalim&theme=github-dark&hide_border=true">
 </p> -->
+
+<hr width="100%">
+
+<h3 align="center"> Featured Computer Vision Project</h3>
+
+<h4 align="center">Automated Fish Tracking</h4>
+
+<p align="center">
+<img src="assets/fish_tracking.gif" width="800"/>
+</p>
+
+<p align="center">
+Using AI to detect and track fish movement for ecological and behavioural studies.
+</p>
+
+<hr width="100%">
