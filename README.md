@@ -1,20 +1,9 @@
 ## Welcome to My GitHub Wonderland! 
 
-You’ve just stumbled upon my little corner of the internet, lucky you.
-Here, you’ll find a mix of brilliant ideas, half-baked experiments, and the occasional *"what was I thinking?"* commits.
+You've just stumbled upon my little corner of the internet, lucky you.
+Here, you'll find a mix of brilliant ideas, half-baked experiments, and the occasional *"what was I thinking?"* commits.
 #### 💡Read more about me **[here](https://drdolapointhemaking.netlify.app/)**
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a>
-                 <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"> </a>
-                 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> </a>
-                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> </a>
-                 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> </a>
-                 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a>
-                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> </a>
-                 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> </a>
-                 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> </a>
-                 <br> -->
-<!-- <hr width="100%"> -->
+
 <hr width="100%">
 
 <h3 align="center">AI, Computer Vision & Research Tools:</h3>
@@ -99,33 +88,29 @@ Here, you’ll find a mix of brilliant ideas, half-baked experiments, and the oc
 </p>
 
 <hr width="100%">
-<!-- <h4>My GitHub Stats</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DolapoSalim&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="DolapoSalim"></p>
-<p><br></p> -->
+
 
 <h3 align="center">Research & Coding Activity</h3>
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=DolapoSalim&show_icons=true&theme=github_dark&hide_border=true" height="170"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolapoSalim&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DolapoSalim&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DolapoSalim&theme=github-dark&hide_border=true">
-</p> -->
+<table align="center" border="0" cellpadding="10" cellspacing="8">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DolapoSalim&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=DolapoSalim&background=0D1117&stroke=30363D&ring=58A6FF&fire=F0883E&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 <hr width="100%">
 
-<h3 align="center">🐟 Featured Computer Vision Project</h3>
+<h3 align="center"> Featured Computer Vision Project</h3>
 
 <h4 align="center">Automated Fish Tracking</h4>
 
 <p align="center">
-  <img src="assets/sample_video-ezgif.com-crop.gif" alt="AI Fish Tracking Demo" width="800"/>
+  <img src="sample_video-ezgif.com-crop.gif" alt="AI Fish Tracking Demo" width="200" style="border-radius: 12px;"/>
 </p>
 
 <p align="center">
