@@ -30,7 +30,6 @@ A coral–seaweed–herbivore model built with synthetic data to test how scient
 | [**EcoQuad**](https://github.com/DolapoSalim/EcoQuad) | AI tool that analyses photoquadrat images to measure species presence and percentage cover (in development) |
 | [**GraphRAG-MarineMind**](https://github.com/DolapoSalim/GraphRAG-MarineMind) | Deterministic Graph-RAG system for interpreting imaging-based ecological variables and environmental monitoring data |
 | [**package-for-fish-behavior-analysis**](https://github.com/DolapoSalim/package-for-fish-behavior-analysis) | Toolkit for analysing fish behaviour in video recordings with optical flow and computer vision |
-| [**web-based-macroalgae-active-learner**](https://github.com/DolapoSalim/web-based-macroalgae-active-learner) | Streamlit app that segments macroalgae in underwater images with YOLO + SAM models and reports percentage cover by class |
 
 <hr width="100%">
 
