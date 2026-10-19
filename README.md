@@ -8,7 +8,7 @@ Here you will find experiments, half-finished ideas and the occasional *"what wa
 
 <h3 align="center">Featured Research</h3>
 
-<h4 align="center">Coral Reef Tipping Points</h4>
+<h4 align="center">Computational Modelling of Reef Tipping Points</h4>
 
 <p align="center">
 A coral–seaweed–herbivore model built with synthetic data to test how scientists detect reef tipping points, early warnings and recovery.
