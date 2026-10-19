@@ -2,7 +2,7 @@
 
 Here you will find experiments, half-finished ideas and the occasional *"what was I thinking?"* commit. Science is messy.
 
-💡 **More about me:** [drdolapointhemaking.netlify.app](https://drdolapointhemaking.netlify.app/)
+💡 **More about me:** [on my personal website](https://dolaposalim.com/)
 
 <hr width="100%">
 
