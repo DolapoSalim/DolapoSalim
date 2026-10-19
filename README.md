@@ -1,8 +1,6 @@
 ### Hi, I'm Dolapo Salim Olatoye
 
-Marine ecologist working where **reef ecology meets computer vision and machine learning**: models of coral reef resilience, tools for annotating and measuring marine imagery, and AI for ecological monitoring.
-
-You'll also find experiments, half-finished ideas and the occasional *"what was I thinking?"* commit. Science is messy.
+Here you will find experiments, half-finished ideas and the occasional *"what was I thinking?"* commit. Science is messy.
 
 💡 **More about me:** [drdolapointhemaking.netlify.app](https://drdolapointhemaking.netlify.app/)
 
